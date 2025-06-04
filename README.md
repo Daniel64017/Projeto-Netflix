@@ -4,7 +4,7 @@ Este projeto é uma *simulação de uma platrealizar a avaliação final da disc
 
 ## 🖼️ Imagens do Sistema
 
-![Tela Principal](https://LINK_DA_IMAGEM_1)
+![Tela Principal](https://github.com/Daniel64017/Projeto-Netflix/blob/6bc6dd66792093c85a1fde01ff478972a9f88531/Imagem%20-%20Tela%20Inicial.png)
 
 ## Funcionalidades
 
