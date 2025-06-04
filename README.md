@@ -2,6 +2,10 @@
 
 Este projeto é uma *simulação de uma platrealizar a avaliação final da disciplina de front-endaforma de streaming, inspirado no visual da Netflix. Desenvolvido com **HTML, CSS e Bootstrap*, o objetivo foi realizar a avaliação final da disciplina de front-end, praticar a criação de interfaces modernas, responsivas e atrativas, incluindo seções típicas de um serviço de streaming.
 
+## 🖼️ Imagens do Sistema
+
+![Tela Principal](https://LINK_DA_IMAGEM_1)
+
 ## Funcionalidades
 
 - *Página inicial responsiva*
